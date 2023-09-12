@@ -3,6 +3,7 @@
 **Table of Contents**
 
 - [Introduction](#introduction)
+- [CPU Screenshot](#cpu-screenshot)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
@@ -15,6 +16,10 @@
 This endeavor is the culmination of my efforts in a Computer Organization course.
 My primary objective was to conceptualize and construct a fully operational CPU (Central Processing Unit) replete with an ALU (Arithmetic Logic Unit)
 and other pivotal components.
+
+## CPU Screenshot
+
+![CPU Screenshot](moris.png)
 
 ### Hardware Components
 
