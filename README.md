@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [CPU Screenshot](#cpu-screenshot)
+- [Hardware Components](#Hardware-Components)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
@@ -21,7 +22,7 @@ and other pivotal components.
 
 ![CPU Screenshot](moris.png)
 
-### Hardware Components
+## Hardware Components
 
 My CPU architecture comprises a plethora of vital hardware components, including:
 
